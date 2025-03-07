@@ -32,6 +32,11 @@ To start of the tutorial, we need to create a Virtual Machine trough Microsoft A
 
 </p>
 <br />
+<p>Connect your newly created VM using RDP using the public IPv4 address. If you are a Mac user you will have to download "Windows App" on the App Store
+</p>
+<img src="https://i.imgur.com/uLVKzxS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 <p>
 </p>

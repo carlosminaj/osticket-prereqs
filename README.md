@@ -25,7 +25,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/user-attachments/assets/461447a9-17c6-4f71-9c49-10f88b71a65e)
+
+
 </p>
 <p>
 To start of the tutorial, we need to create a Virtual Machine trough Microsoft Azure. A virutal machine is essentially a remote computer. The reasoning behind this is to protect our own machine from any harm. We need to create a resource group can label it with the name "osTicket". Afterwwards create a VM with 2-4 CPUs. In the tutorial, we will be using 4 CPUs. 
